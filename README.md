@@ -8,9 +8,9 @@
 
 - 📝 I’m currently learning **Google Project Management: Professional Certificate**
 
-- 💬 Ask me about **Dart,Flutter,PHP,Laravel,Matlab..etc for me skills**
+- 💬 Ask me about **Dart,Flutter,PHP,Laravel,Matlab..etc for my skills**
 
-- 📫 How to reach me **muamalhelali4@gmail.com**
+- 📫 How to reach me **in telegram @MMAMM12**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
