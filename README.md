@@ -1,3 +1,4 @@
+![logo](https://github.com/muamal2/muamal2/blob/main/github-banner-main.png)
 <h1 align="center">Hi 👋, I'm Muamal Halali</h1>
 <h3 align="center">Web and mobile application programmer in iraq</h3>
 
