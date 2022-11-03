@@ -1,7 +1,7 @@
-![logo](https://github.com/muamal2/muamal2/blob/main/Github-banner.gif)
 
 <h1 align="center">Hi 👋, I'm Muamal Halali</h1>
 <h3 align="center">Web and mobile application programmer in iraq</h3>
+<img align="right" alt="coding" width="400" src="https://github.com/muamal2/muamal2/blob/main/Github-banner.gif">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muamal2" alt="muamal2" /></a> </p>
 
