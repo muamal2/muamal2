@@ -4,13 +4,9 @@
 
 <img align="right" alt="coding" width="400" src="https://github.com/muamal2/muamal2/blob/main/Github-banner.gif">
 
-- 🚀 I’m currently working on [tasdid moudle opencart](https://tasdid.net)
-
-- 📝 I’m currently learning **Google Project Management: Professional Certificate**
-
 - 💬 Ask me about **Dart,Flutter,PHP,Laravel,Matlab..etc for my skills**
 
-- 📫 How to reach me **in telegram @MMAMM12**
+- 📫 How to reach me [in telegram](https://t.me/mmamm12)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
