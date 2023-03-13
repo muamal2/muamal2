@@ -1,8 +1,7 @@
 ![logo](https://github.com/muamal2/muamal2/blob/main/github-banner-main.png)
 <h1 align="center">Hi 👋, I'm Muamal Halali</h1>
 <h3 align="center">Web and mobile application programmer in iraq</h3>
-
-<img align="right" alt="coding" width="400" src="https://github.com/muamal2/muamal2/blob/main/Github-banner.gif">
+ 
 
 - 💬 Ask me about **Dart,Flutter,PHP,Laravel,Matlab..etc for my skills**
 
